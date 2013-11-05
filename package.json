@@ -1,0 +1,36 @@
+{
+  "name": "node-assets",
+  "version": "0.0.1",
+  "description": "Simple asset concatination",
+  "keywords": [
+  ],
+  "maintainers": [
+    "Jesse Stuart <jesse@jessestuart.ca>"
+  ],
+  "contributors": [
+    "Jesse Stuart <jesse@jessestuart.ca>"
+  ],
+  "bugs": {
+    "url": "http://github.com/jvatic/node-assets/issues"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://raw.github.com/jvatic/node-assets/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jvatic/node-assets.git"
+  },
+  "main": "./lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
